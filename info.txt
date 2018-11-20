@@ -2,3 +2,6 @@ Presentation DB
 UN: 423447_pushly
 PW: zP3zKJWMS$dLzN=F
 
+Wordpress
+UN: admin
+PW: tk8V&T7*Ag8K)RwzLg
