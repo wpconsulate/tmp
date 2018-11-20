@@ -1,0 +1,16 @@
+trunk/*.log
+trunk/wp-config.php
+trunk/wp-content/advanced-cache.php
+trunk/wp-content/backup-db/
+trunk/wp-content/backups/
+trunk/wp-content/blogs.dir/
+trunk/wp-content/cache/
+trunk/wp-content/upgrade/
+trunk/wp-content/uploads/
+trunk/wp-content/mu-plugins/
+trunk/wp-content/wp-cache-config.php
+trunk/wp-content/plugins/hello.php
+
+trunk/.htaccess
+trunk/license.txt
+trunk/readme.html
