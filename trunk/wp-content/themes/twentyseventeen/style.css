@@ -1867,7 +1867,7 @@ body:not(.has-header-image):not(.has-header-video) .custom-header-media {
 --------------------------------------------------------------*/
 
 .site-content-contain {
-	background-color:black !important;
+	background-color: #fff;
 	position: relative;
 }
 
